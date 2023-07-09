@@ -31,14 +31,23 @@ h1 {
     color: var(--first-color);
 }
 
+h1.refresh-header {
+    font-family: 'Josefin Sans', sans-serif, 'Roboto', sans-serif;
+    color: var(--first-color);
+    text-shadow: none;
+    font-size: 20px;
+    border-bottom: 1px solid #8c3c23;
+    padding: 10px 0;
+}
+
 p {
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: var(--first-color);
     font-family: 'Josefin Sans', sans-serif, 'Roboto', sans-serif;
 }
 
 img {
-    width: 75%;
+    width: 55%;
 }
 
 footer {
